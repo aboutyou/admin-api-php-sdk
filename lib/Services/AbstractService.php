@@ -28,7 +28,7 @@ abstract class AbstractService
      * @param null|string $modelClass the classname of which the response gets transformed to
      * @param array $query array of additional query parameters
      * @param array $headers array of additional headers
-     * @param null|ApiObject|string $body the request body object
+     * @param null|ApiObject|string|array $body the request body object
      *
      * @throws ClientExceptionInterface
      * @throws ApiErrorException
