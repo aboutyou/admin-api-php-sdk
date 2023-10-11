@@ -1,3 +1,5 @@
+THIS IS DEPRECATED - please find the actual repo here: https://github.com/scayle/admin-api-php-sdk
+
 # AboutYou Cloud AdminAPI SDK
 
 ## Contents
